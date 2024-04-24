@@ -2,7 +2,7 @@
 
 Estructura de Datos y Algoritmos (EDA) es un curso de la Escuela Profesional de Ingeniería de Sistemas ([EPIS]) de la Universidad Nacional de San Agustín de Arequipa ([UNSA]).
 
-El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) para su libre acceso y uso como material de consulta en el estudio del curso de Estructura de Datos y Algoritmos del [Plan de estudios 2017][PLAN-2017] de la EPIS.
+El presente repositorio fue creado en base al meterial del profesor Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) para su libre acceso y uso como material de consulta en el estudio del curso de Estructura de Datos y Algoritmos del [Plan de estudios 2017][PLAN-2017] de la EPIS.
 
 2do año - Primer Semestre (III Semestre)
 
