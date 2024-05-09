@@ -174,27 +174,43 @@ A=[1 2 3] -> Ain=[3 2 1]
   /** */
   return Ain;
   }
-```
+  ```
 
 ii. Rotación a la Izquierda
 Ejemplo:
 Si d=2
 A=[1 2 3 4 5] -> Aiz=[3 4 5 1 2]
 - ```sh
-public int[] rotarIzquierdaArray(int[] A){
+  public int[] rotarIzquierdaArray(int[] A){
+  /** */
+  //Procedimiento para rotar la matriz
+  /** */
+  return Aiz;
+  }
+  ```
+
+iii. Triángulo recursivo
+Ejemplo:
+b=5
+```sh
+*
+**
+***
+****
+*****
+```
+```sh
+public void trianguloRecursivo(int base){
 /** */
-//Procedimiento para rotar la matriz
+//Procedimiento para imprimir triángulo
 /** */
-return Aiz;
 }
 ```
-
-
 #
 
 ## CUESTIONARIO
-- ¿Qué diferencia hay entre un List y un ArrayList en Java?
-- ¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?
+¿Qué diferencia hay entre un List y un ArrayList en Java?
+¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?
 
 #
 
