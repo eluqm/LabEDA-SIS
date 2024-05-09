@@ -98,7 +98,7 @@ Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente ID
 [http:cs50.dev](https://cs50.dev)
 
 pégina inicio:
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/eluqm/LabEDA-SIS/edit/main/Lab02/README.md#:~:text=2024%2D05%2D09-,at,-00.36.36.png))
 
 ## EJERCICIO 
 
