@@ -95,7 +95,10 @@
 - https://docs.oracle.com/javase/tutorial/java/generics/types.html
 ## IDE 
 Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente IDE-online 
-[cs50.dev](cs50.dev)
+[http:cs50.dev](https://cs50.dev)
+
+pégina inicio:
+![alt text](http://url/to/img.png)
 
 ## EJERCICIO 
 
