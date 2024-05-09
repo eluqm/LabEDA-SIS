@@ -97,8 +97,10 @@
 Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente IDE-online 
 [http:cs50.dev](https://cs50.dev)
 
-pégina inicio:
-![alt text]([http://url/to/img.png](https://github.com/eluqm/LabEDA-SIS/edit/main/Lab02/README.md#:~:text=2024%2D05%2D09-,at,-00.36.36.png))
+- necesita una cuenta github
+- para compilar use:
+- $javac hello.java
+- $java hello
 
 ## EJERCICIO 
 
@@ -161,34 +163,18 @@ pégina inicio:
 
 ## EJERCICIOS PROPUESTOS
 
-Lista 
-    - Implementa una Lista usando POO con tipos genéricos siguiendo los estándares de Java. (Los métodos para una lista).
-
-    - https://docs.oracle.com/javase/7/docs/api/java/util/List.html
-
-    - Puede ignorar los siguientes métodos:
-        - hashCode()
-        - iterator()
-        - listIterator()
-        - listIterator(int index)
-        - retainAll(Collection<?> c)
-        - toArray()
-        - toArray(T[] a)
-
-    - (i) Implemente una clase Node<T> donde T es un tipo genérico, esta clase debe contener al menos dos propiedades. 
-
-    - https://docs.oracle.com/javase/tutorial/java/generics/types.html
-
-    -   ```sh 
-        T data: la información almacenada en el nodo
-        Node<T> nextNode: una referencia al siguiente nodo
-        ```
-
-    - (ii) Implementar una clase List<T> esta clase debe contener al menos esta propiedad
-    -   ```sh 
-        Node<T> root: la referencia sobre el nodo inicial
-        ```
-
+## EJERCICIOS PROPUESTOS
+i. Invertir un matriz de enteros
+Ejemplo:
+A=[1 2 3] -> Ain=[3 2 1]
+- ```sh
+  public int[] invertirArray(int[] A){
+  /** */
+  //Procedimiento para invertir la matriz
+  /** */
+  return Ain;
+}
+```
 #
 
 ## CUESTIONARIO
