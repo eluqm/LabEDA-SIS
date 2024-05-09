@@ -30,12 +30,12 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Herencia y genericidad</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">TDA lista parte 01</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>03</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2024 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>23-May-2023</td><td>FECHA FIN:</td><td>30-May-2023</td><td>DURACIÓN:</td><td>02 horas</td>
+<td>FECHA INICIO::</td><td>09-May-2024</td><td>FECHA FIN:</td><td>09-May-2024</td><td>DURACIÓN:</td><td>02 horas</td>
 </tr>
 <tr><td colspan="6">RECURSOS:
     <ul>
@@ -48,7 +48,7 @@
 </<tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
-<li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
+<li>Edson Luque Mamani</li>
 </ul>
 </td>
 </<tr>
@@ -93,8 +93,11 @@
 - https://www.w3schools.com/java/
 - https://docs.oracle.com/javase/7/docs/api/java/util/List.html
 - https://docs.oracle.com/javase/tutorial/java/generics/types.html
+## IDE 
+Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente IDE-online 
+[cs50.dev](cs50.dev)
 
-## EJERCICIO RESUELTO POR EL DOCENTE
+## EJERCICIO 
 
 #
 - ArrayList
