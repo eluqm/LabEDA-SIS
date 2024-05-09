@@ -173,8 +173,23 @@ A=[1 2 3] -> Ain=[3 2 1]
   //Procedimiento para invertir la matriz
   /** */
   return Ain;
+  }
+```
+
+ii. Rotación a la Izquierda
+Ejemplo:
+Si d=2
+A=[1 2 3 4 5] -> Aiz=[3 4 5 1 2]
+- ```sh
+public int[] rotarIzquierdaArray(int[] A){
+/** */
+//Procedimiento para rotar la matriz
+/** */
+return Aiz;
 }
 ```
+
+
 #
 
 ## CUESTIONARIO
