@@ -138,15 +138,14 @@ El  árbol de búsqueda binaria es un  árbol binario con la siguiente propiedad
 - Estudie la librería Graph Stream para obtener una salida gráfica de su implementación.
 
 > ejemplo: 
-![Image Alt text](bst2.png)
+![Image Alt text](tareabst.png)
 
 
 #
 
 ## CUESTIONARIO
-¿Qué diferencia hay entre un List y un ArrayList en Java?
-¿Qué beneficios y oportunidades ofrecen las clases genéricas en Java?
-
+¿Explique como es el algoritmo que implementó para obtener el BST con la librería Graph Stream? 
+Recuerde que pueden haber operaciones sobre el BST.
 #
 
 ## REFERENCIAS
