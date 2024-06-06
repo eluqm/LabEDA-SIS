@@ -105,7 +105,7 @@ Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente ID
 ## Arbol Binario de Búsqueda (BST) 
 El  árbol de búsqueda binaria es un  árbol binario con la siguiente propiedad : Todos los nodos del sub árbol izquierdo de un nodo x son menores o iguales que x y todos los nodos del sub árbol derecho son mayores o iguales que x.
 
-
+![Image Alt text](/images/bst.png)
 
 ## EJERCICIO 
 
