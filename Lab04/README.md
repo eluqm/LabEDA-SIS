@@ -127,49 +127,20 @@ El  árbol de búsqueda binaria es un  árbol binario con la siguiente propiedad
 
 ## EJERCICIOS PROPUESTOS
 
-## EJERCICIOS PROPUESTOS
-i. Invertir un matriz de enteros
-Ejemplo:
-A=[1 2 3] -> Ain=[3 2 1]
-- ```sh
-  public int[] invertirArray(int[] A){
-  /** */
-  //Procedimiento para invertir la matriz
-  /** */
-  return Ain;
-  }
-  ```
+## Parte 01 (clase)
 
-ii. Rotación a la Izquierda
-Ejemplo:
-Si d=2
-A=[1 2 3 4 5] -> Aiz=[3 4 5 1 2]
-- ```sh
-  public int[] rotarIzquierdaArray(int[] A){
-  /** */
-  //Procedimiento para rotar la matriz
-  /** */
-  return Aiz;
-  }
-  ```
+- Elabore un informe implementando Arboles de Búsqueda Binarios con toda la lista de operaciones:
+    - search(), getMin(), getMax(), parent(), son(), insert().
+    - INPUT: Una sóla palabra en mayúsculas.
+    - OUTPUT: Se debe contruir el BST considerando el valor decimal de su código ascii.
+    - Luego, pruebe todas sus operaciones implementadas.
+## Parte 02 (casa)
+- Estudie la librería Graph Stream para obtener una salida gráfica de su implementación.
 
-iii. Triángulo recursivo
-Ejemplo:
-b=5
-```sh
-*
-**
-***
-****
-*****
-```
-```sh
-public void trianguloRecursivo(int base){
-/** */
-//Procedimiento para imprimir triángulo
-/** */
-}
-```
+> ejemplo: 
+![Image Alt text](bst2.png)
+
+
 #
 
 ## CUESTIONARIO
