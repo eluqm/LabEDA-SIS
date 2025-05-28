@@ -94,13 +94,12 @@
 - https://docs.oracle.com/javase/7/docs/api/java/util/List.html
 - https://docs.oracle.com/javase/tutorial/java/generics/types.html
 ## IDE 
-Para los laboratorios usando el lenguaje Java se recomienda usar el siguiente IDE-online 
-[http:cs50.dev](https://cs50.dev)
+Para los laboratorios usando el lenguaje Java se recomienda usar Colab
 
-- necesita una cuenta github
+
 - para compilar use:
-- $javac hello.java
-- $java hello
+- !javac hello.java
+- !java hello
 
 ## Arbol Binario de Búsqueda (BST) 
 El  árbol de búsqueda binaria es un  árbol binario con la siguiente propiedad : Todos los nodos del sub árbol izquierdo de un nodo x son menores o iguales que x y todos los nodos del sub árbol derecho son mayores o iguales que x.
