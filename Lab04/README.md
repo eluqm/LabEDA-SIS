@@ -32,10 +32,10 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">TDA BST</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>04</td><td>AÑO LECTIVO:</td><td>2024 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>04</td><td>AÑO LECTIVO:</td><td>2025 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>06-Junio-2024</td><td>FECHA FIN:</td><td>06-Junio-2024</td><td>DURACIÓN:</td><td>02 horas</td>
+<td>FECHA INICIO::</td><td>28-Mayo-2025</td><td>FECHA FIN:</td><td>03-Junio-2025</td><td>DURACIÓN:</td><td>02 horas</td>
 </tr>
 <tr><td colspan="6">RECURSOS:
     <ul>
